@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\THREADS\THREADS\bin\Debug\net8.0\THREADS.exe
+C:\Users\user\source\repos\THREADS\THREADS\bin\Debug\net8.0\THREADS.deps.json
+C:\Users\user\source\repos\THREADS\THREADS\bin\Debug\net8.0\THREADS.runtimeconfig.json
+C:\Users\user\source\repos\THREADS\THREADS\bin\Debug\net8.0\THREADS.dll
+C:\Users\user\source\repos\THREADS\THREADS\bin\Debug\net8.0\THREADS.pdb
+C:\Users\user\source\repos\THREADS\THREADS\obj\Debug\net8.0\THREADS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\THREADS\THREADS\obj\Debug\net8.0\THREADS.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\THREADS\THREADS\obj\Debug\net8.0\THREADS.AssemblyInfo.cs
+C:\Users\user\source\repos\THREADS\THREADS\obj\Debug\net8.0\THREADS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\THREADS\THREADS\obj\Debug\net8.0\THREADS.dll
+C:\Users\user\source\repos\THREADS\THREADS\obj\Debug\net8.0\refint\THREADS.dll
+C:\Users\user\source\repos\THREADS\THREADS\obj\Debug\net8.0\THREADS.pdb
+C:\Users\user\source\repos\THREADS\THREADS\obj\Debug\net8.0\THREADS.genruntimeconfig.cache
+C:\Users\user\source\repos\THREADS\THREADS\obj\Debug\net8.0\ref\THREADS.dll
